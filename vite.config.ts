@@ -18,7 +18,7 @@ export default defineConfig(({mode}) => {
     server: {
     host: true,
     allowedHosts: [
-      "all"
+      "trinocular-carmina-philosophically.ngrok-free.dev"
     ]
     }
   };
