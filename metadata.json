@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RL Delivery Route Optimizer",
+  "description": "Dynamic delivery route optimization system using Reinforcement Learning (DQN) to adapt to traffic and new requests.",
+  "requestFramePermissions": []
+}
